@@ -358,8 +358,7 @@ values lie in the range reported for AA6061 AFSD (roughly 350 to
 480 degC). `P_TOOL` should be calibrated against thermocouple data
 (mechanical power is approximately spindle torque x angular speed).
 
-<!-- Replace with your own plot -->
-<img width="600" alt="probe-temperatures" src="afsd_probes.png" />
+
 
 ### Coupled run
 
