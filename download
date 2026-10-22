@@ -1,0 +1,14 @@
+*.inp
+*.frd
+*.sta
+*.cvg
+*.dat
+*.12d
+*.npz
+*.log
+spooles.out
+afsd_schedule.json
+afsd_th_schedule.json
+pvd/
+pvd_thermal/
+movie/
